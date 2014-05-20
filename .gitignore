@@ -1,11 +1,12 @@
 pom.xml
-pom.xml.asc
 *jar
 /lib/
 /classes/
+/out/
+/out-test/
 /target/
-/checkouts/
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
-.lein-failures
+cljs.compiled.test.js
+cljs.compiled.js
